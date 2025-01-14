@@ -1,0 +1,19 @@
+{
+    "name": "atekushi/singleton",
+    "description": "Small Library to Implement Singleton Pattern To Your Project",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Atekushi\\Singleton\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Endrika Nanami",
+            "email": "endrika.nanami@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
